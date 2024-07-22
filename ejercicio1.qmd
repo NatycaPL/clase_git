@@ -1,0 +1,13 @@
+---
+title: "Untitled"
+format: html
+---
+
+```{bash}
+echo "saludo"
+```
+
+#Código usado en ejercicio 1
+
+
+
